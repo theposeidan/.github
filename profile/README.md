@@ -4,7 +4,7 @@ Free, open source marketing and creative AI tools from The Poseidan: prompts, te
 
 Every repo here is **MIT licensed**. Use it, change it, ship it.
 
-**Follow along:** [Instagram](https://www.instagram.com/theposeidan) · [X](https://x.com/theposeidan) · [LinkedIn](https://www.linkedin.com/company/poseidanai) · [Threads](https://www.threads.com/@theposeidan)
+**Follow along:** [Instagram](https://www.instagram.com/theposeidan) · [X](https://x.com/theposeidan) · [LinkedIn](https://www.linkedin.com/company/theposeidan) · [Threads](https://www.threads.com/@theposeidan)
 
 ### Tools
 First tools are on the way. Follow this page to see them first.
